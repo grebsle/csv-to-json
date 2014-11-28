@@ -2,8 +2,8 @@
   "name": "csv-to-json",
   "version": "0.2.2",
   "dependencies": {
-    "csv-js": "git://github.com/cparker15/CSV-js.git",
-    "json2": "latest"
+    "csv-js": "https://github.com/cparker15/CSV-js.git",
+    "json2": "https://github.com/douglascrockford/JSON-js.git"
   },
   "ignore": [
     "node_modules",
